@@ -23,11 +23,13 @@ Passionate about crafting backend systems, exploring IoT solutions, and building
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goraasep&show_icons=true&theme=monokai&hide_border=false&count_private=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=goraasep&theme=monokai&hide_border=false" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goraasep&theme=monokai&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+</p>
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=goraasep&theme=monokai&hide_border=false" />
 </p>
 
 ---
