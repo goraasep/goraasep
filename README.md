@@ -20,7 +20,7 @@ Hi, I'm Gora — a passionate developer who loves crafting backend systems, expl
 ### 📊 GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goraasep&theme=monokai)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=goraasep&theme=monokai)<br/>
-![](https://github-readme-stats.vercel.app/api?username=goraasep&show_icons=true&theme=monokai&hide_border=false&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=goraasep&theme=monokai)
 
 ---
 
