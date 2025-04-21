@@ -30,7 +30,7 @@ Hi, I'm Gora — a passionate developer who loves crafting backend systems, expl
 ---
 
 ### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goraasep)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/goraasep](https://www.linkedin.com/in/gora-asep-b55271129/))
 
 ---
 
