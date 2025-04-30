@@ -23,12 +23,13 @@ Passionate about crafting backend systems, exploring IoT solutions, and building
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goraasep&theme=monokai" />
-</p>
-<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=goraasep&theme=monokai" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=goraasep&theme=monokai" />
 </p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goraasep&theme=monokai" />
+</p>
+
 
 ---
 
